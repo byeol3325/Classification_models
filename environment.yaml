@@ -119,4 +119,3 @@ dependencies:
       - xxhash==3.5.0
       - yarl==1.20.1
       - zipp==3.23.0
-prefix: /home/cv7/anaconda3/envs/2dto3d
