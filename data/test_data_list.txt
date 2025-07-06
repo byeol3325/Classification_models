@@ -1,0 +1,2 @@
+file_path,clas_name
+classB/cat.png,cat
